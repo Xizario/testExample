@@ -1,0 +1,25 @@
+{
+  "name": "test-example",
+  "description": "",
+  "homepage": "https://github.com/Xizario/testExample",
+  "dependencies": {
+    "react": "16.2.0",
+    "react-dom": "16.2.0",
+    "react-scripts": "1.0.10",
+    "cldr-data": "32.0.1",
+    "@progress/kendo-data-query": "1.1.2",
+    "@progress/kendo-react-grid": "0.3.0",
+    "@progress/kendo-react-intl": "0.3.0",
+    "@progress/kendo-react-inputs": "0.3.0",
+    "@progress/kendo-react-dropdowns": "0.3.0",
+    "@progress/kendo-react-dateinputs": "0.3.0"
+  },
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
