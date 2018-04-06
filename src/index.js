@@ -11,9 +11,7 @@ const StatefullGrid = withState(Grid);
 class App extends Component {
   constructor() {
     super();
-    this.state = {
-      name: 'React'
-    };
+    this.state = {};
   }
 
   render() {

@@ -1,6 +1,6 @@
 {
   "name": "test-example",
-  "description": "",
+  "description": "test-example",
   "homepage": "https://github.com/Xizario/testExample",
   "dependencies": {
     "react": "16.2.0",
